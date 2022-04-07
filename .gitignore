@@ -13,3 +13,6 @@ x64/
 
 # logging
 logfiles/
+
+# Visual Studio files
+.vs/
